@@ -1,0 +1,26 @@
+{
+  "name": "just-js",
+  "version": "0.0.1",
+  "description": "trying out js stuff - node browser whatever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterbarraud/just-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "@gapeterb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterbarraud/just-js/issues"
+  },
+  "homepage": "https://github.com/peterbarraud/just-js#readme",
+  "dependencies": {
+    "immutable": "^3.8.2"
+  }
+}
